@@ -5,7 +5,7 @@
  * - اجعل SIZE = 50 للعمل بشكل طبيعي.
  * - اجعل SIZE = 5 لاختبار حالة الامتلاء (Overflow).
  */
-#define SIZE 5
+#define SIZE 50
 
 // تعريف هيكل البيانات للمخزن الدائري
 typedef struct {
